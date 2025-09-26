@@ -205,3 +205,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local environment files (important!)
+.env
+
+# Ignore FAISS index & metadata if large
+faiss.index
+meta.pkl
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+
