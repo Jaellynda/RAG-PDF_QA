@@ -231,3 +231,11 @@ meta.pkl
 .DS_Store
 Thumbs.db
 
+venv/
+__pycache__/
+*.pyc
+*.pkl
+faiss.index
+.env
+
+
