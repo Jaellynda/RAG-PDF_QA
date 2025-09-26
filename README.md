@@ -7,5 +7,5 @@ This is highly relevant for research roles involving **LLMs, RAG pipelines, APIs
 
 ---
 
-## 🗂️ Repo Structure
+## Repo Structure
 
