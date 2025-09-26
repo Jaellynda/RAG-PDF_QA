@@ -18,7 +18,4 @@ and answers questions by retrieving context and generating an answer with either
 
 ## Quick start (local)
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/rag-pdf-qa
-   cd rag-pdf-qa
+1
